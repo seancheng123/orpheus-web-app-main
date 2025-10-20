@@ -93,14 +93,9 @@ const Systems = () => {
       <section className="pt-24 pb-12 bg-gradient-to-br from-background to-card">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-4xl mx-auto">
-            <Badge className="mb-4">Systems</Badge>
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              Core <span className="text-primary">Technologies</span>
+            <h1 className="text-4xl md:text-6xl quicksand-font my-12">
+              CORE <span className="text-primary">TECHNOLOGIES</span>
             </h1>
-            <p className="text-xl text-muted-foreground mb-8">
-              Each component of our system works together to provide
-              comprehensive soil analysis and restoration guidance.
-            </p>
           </div>
         </div>
       </section>

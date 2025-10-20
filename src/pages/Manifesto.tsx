@@ -32,16 +32,10 @@ const Manifesto = () => {
       {/* Top Content */}
       <section className="pt-24 pb-12 bg-gradient-to-br from-background to-card">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <Badge className="mb-4">About</Badge>
-          <h1 className="text-4xl md:text-6xl font-bold mb-6">
+          <h1 className="text-4xl md:text-6xl quicksand-font my-12">
             The Agrarian Republic:<br></br>
             <span className="text-primary">A Manifesto</span>
           </h1>
-          <p className="text-xl text-muted-foreground">
-            Clean and regional food supplies, all American grown are no longer
-            to be thought of as a luxury, but a basic foundation to national
-            security.
-          </p>
         </div>
       </section>
       {/* Main Content */}

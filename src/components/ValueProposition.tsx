@@ -76,7 +76,7 @@ const ValueProposition = () => {
               </FadeInFromDown>
               
               <FadeInFromDown delay={1250}>
-                <a href="/systems" className="text-right block">
+                <a href="https://enotrium.org/" target="_blank" className="text-right block">
                   <button className="border border-solid border-foreground p-3 rounded-sm hover:text-primary hover:border-primary transition-colors duration-250 whitespace-nowrap">
                     Explore Enotrium -&gt;
                   </button>

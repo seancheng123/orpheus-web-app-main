@@ -31,6 +31,13 @@ const Team = () => {
       },
     },
     {
+      name: "Honovi Trudell",
+      role: "Chief of Operations",
+      bio: "Honovi Trudell leads customer strategy. He is a former member of the United States Coast Guard and the Baltimore City Police Department. Mr. Trudell has worked for non-profits dedicated to regenerative agriculture and led sustainability projects in rural America.",
+      image: "",
+      social: { linkedin: "#", twitter: "#", email: "" },
+    },
+    {
       name: "Emanuele Gaz",
       role: "Chief of Research",
       bio: "Emanuele Gaz holds a B.S.c in Physics from the University of Trento. He also holds M.S.c in Physics with specialization in Quantum Information and Technologies from the Hebrew University of Jerusalem, and an MBA in Energy and Environmental Management and Economics from the Università di Pavia. ",
@@ -40,13 +47,6 @@ const Team = () => {
         twitter: "#",
         email: "",
       },
-    },
-    {
-      name: "Honovi Trudell",
-      role: "Chief of Operations",
-      bio: "Honovi Trudell leads customer strategy. He is a former member of the United States Coast Guard and the Baltimore City Police Department. Mr Trudell has worked for non-profits dedicated to regenerative agriculture and led sustainability projects in rural America.",
-      image: "",
-      social: { linkedin: "#", twitter: "#", email: "" },
     },
     {
       name: "Sriram Nallan",
@@ -62,7 +62,7 @@ const Team = () => {
     {
       name: "Krishna Phanindra ",
       role: "AI Software Engineer",
-      bio: "Krishna Phanindra Marupaka is a AI Engineer and applied AI researcher with 2+ years of experience in deep learning for agriculture, computer vision, and NLP. He has built scalable ML pipelines using PyTorch, TensorFlow, and Azure ML for real-time geospatial analytics, and developed multi-modal models with Vision Transformers and spatial-temporal attention to predict crop yield from satellite and climate data. His work includes processing drone and hyperspectral imagery, optimizing models for toxin detection and nutrient mapping, and deploying cloud-native AI solutions. Published a paper on the detection of Pap smear Cells using CNN and Pre-trained Vision and Swin transformer in IEEE ISBI2025 conference.",
+      bio: "Krishna Phanindra Marupaka is a AI Engineer and applied AI researcher with 2+ years of experience in deep learning for agriculture, computer vision, and NLP.",
       image: "",
       social: {
         linkedin: "https://www.linkedin.com/in/krishnaphanindra/",
@@ -84,7 +84,7 @@ const Team = () => {
     {
       name: "Thoyajaksha Kashyap",
       role: "AI Software Engineer",
-      bio: "Thoyajaksha Kashyap holds an M.S. in Computer Science from the University of South Dakota, where he specialized in AI-driven healthcare and assistive technologies. His work includes developing an AI Smart Stick for the Visually Impaired during a DRDO internship, creating deep learning models for brain tumor and kidney disease detection (both IEEE-published), and building a Pap smear classification system using CNN and Transformers. Beyond healthcare AI, he engineered an NLP KPI Dashboard for gaming analytics and delivers solutions spanning embedded systems, computer vision, NLP, and full-stack development.",
+      bio: "Thoyajaksha Kashyap holds an M.S. in Computer Science from the University of South Dakota, where he specialized in AI-driven healthcare and assistive technologies.",
       image: "",
       social: {
         linkedin: "https://www.linkedin.com/in/thoyajaksha-kashyap-kristipati/",

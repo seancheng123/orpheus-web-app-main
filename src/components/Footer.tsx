@@ -10,15 +10,10 @@ const Footer = () => {
           <div className="col-span-6  ">
             <Link to="/" className="flex items-center space-x-2 mb-4">
               <Leaf className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold text-foreground">
+              <span className="text-xl text-foreground quicksand-font">
                 ORPHEUS AI
               </span>
             </Link>
-            <p className="text-muted-foreground max-w-md">
-              Transforming agriculture through AI-powered soil restoration.
-              Building a future where clean farming meets profitable
-              sustainability.
-            </p>
           </div>
 
           {/* Quick Links */}

@@ -13,7 +13,7 @@ export const TypingIn = ({ children }: { children: React.ReactNode }) => {
       ([entry]) => {
         if (entry.isIntersecting) {
           setHasAnimated(true);
-          observer.unobserve(entry.target); // 👈 stop observing after first trigger
+          observer.unobserve(entry.target);
         }
       },
       { threshold: 0.1 }
